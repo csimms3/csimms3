@@ -21,7 +21,7 @@ Currently on my second internship at SAP (Concur Travel AI), building a Go
 conversational booking agent and statistical recommenders for corporate travel. Previously email
 delivery infrastructure at MailChannels.
 
-**[steak](https://github.com/csimms3/steak)** — real-time multiplayer game platform
+**[steak](https://github.com/csimms3/steak)** — real-time game platform
 with provably fair outcomes via commit-reveal seed hashing. TypeScript, Next.js,
 Prisma, Postgres.
 
